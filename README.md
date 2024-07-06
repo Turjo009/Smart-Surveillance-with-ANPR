@@ -1,5 +1,6 @@
-# Smart-Surveillance-wi# Smart-Surveillance-with-ANPR
-Automated Number Plate Recognition (ANPR) System for Enhanced Security &amp; Compliance
+# Smart-Surveillance-with-ANPR
+Automated Number Plate Recognition (ANPR) System for Enhanced Security.  
+The number plate of a car will be scanned at a petrol pump to detect unregistered cars.
 
 # Project Overview
 
